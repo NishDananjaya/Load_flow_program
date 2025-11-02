@@ -1,0 +1,10 @@
+build
+dist
+gui.spec
+venv39
+
+gui.spec
+algorithms/__pycache__
+algorithms/__init__.py
+test.py
+icon.ico
